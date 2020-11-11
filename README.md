@@ -1,7 +1,7 @@
 # react-hooks-practice
 This repository is for practicing hooks in reactjs.
 - [x] useState
-- [ ] useEffect
+- [x] useEffect
 - [ ] useContext
 - [ ] useRef
 - [ ] useReducer
